@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 abstract class DepartmentBase
 {
     public abstract bool AddPatient(string patient);
